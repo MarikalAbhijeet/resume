@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Abhijeet Marikal Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -17,13 +17,13 @@ resume_title:                   "Cybersecurity Professional"
 resume_contact_email:           "marikalabhijeet@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "980-253-5152"
+resume_contact_address:         "College Park, Maryland"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "College Park, Maryland • 980-253-5152 • marikalabhijeet@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>A dedicated cybersecurity professional with an educational foundation from esteemed institutions such as the University of Maryland and New York University. Armed with hands-on experience ranging from digital forensics at Central Forensic Science Laboratory to cloud security transformations using AWS. Proven expertise in identifying vulnerabilities, Incident Response, implementing robust security measures and Digital Forensics. Seeking opportunities to leverage my technical proficiency and leadership skills in forward-thinking cybersecurity roles.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +45,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_github_url:            "https://github.com/MarikalAbhijeet"
+  resume_twitter_url:           "https://twitter.com/MarikalAbhijeet"
   resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/abhijeetm9/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_medium_url:            ""
 resume_print_social_links:      true
 
 # Design settings
